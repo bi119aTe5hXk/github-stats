@@ -134,10 +134,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #663399; 
-  width: 44.034%;
+  width: 44.031%;
 " class="progress-item"></span><span style="
   background-color: #67b8de; 
-  width: 11.348%;
+  width: 11.347%;
 " class="progress-item"></span><span style="
   background-color: #438eff; 
   width: 9.205%;
@@ -146,10 +146,10 @@ div.ellipsis {
   width: 9.040%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 5.823%;
+  width: 5.822%;
 " class="progress-item"></span><span style="
   background-color: #4F5D95; 
-  width: 5.476%;
+  width: 5.482%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
   width: 5.039%;
@@ -161,7 +161,7 @@ div.ellipsis {
   width: 1.859%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
-  width: 1.858%;
+  width: 1.857%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
   width: 1.421%;
@@ -247,7 +247,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Objective-C</span>
-  <span class="percent">9.21%</span>
+  <span class="percent">9.20%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
